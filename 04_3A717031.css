@@ -1,26 +1,24 @@
-div {
-    background-color:rgb(159, 212, 255);
-  }
+
   *{
     font-size: 40px;
 }
-#all{
-    width:800px;
-    margin:0px auto;
- }
  #header{
+   background-color:rgb(159, 212, 255);
    height: 100px;
   
  }
  #side{
+   background-color:rgb(153, 200, 8);
    float:left;
    width:180px;
  
+ 
  }
  #main{
-   float:right;
-   width:620px;
- 
+   width:100%;
+   margin: -40px;
+   border: -200px;
+
  }
  #footer{
    clear:both;
