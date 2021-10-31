@@ -1,0 +1,29 @@
+div {
+    background-color:rgb(159, 212, 255);
+  }
+  *{
+    font-size: 40px;
+}
+#all{
+    width:800px;
+    margin:0px auto;
+ }
+ #header{
+   height: 100px;
+  
+ }
+ #side{
+   float:left;
+   width:180px;
+ 
+ }
+ #main{
+   float:right;
+   width:620px;
+ 
+ }
+ #footer{
+   clear:both;
+   height: 100px;
+  
+ }
